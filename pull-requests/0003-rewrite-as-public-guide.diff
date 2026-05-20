@@ -1,0 +1,20 @@
+# PR #3 — Rewrite repo as public OSS-PR playbook
+# Repo: faizzyhon/open-source-journey
+# Branch: rewrite-as-public-guide
+# Status: open (will be pushed by RUN_UPGRADE.cmd)
+#
+# Summary of changes:
+#   - README.md           : reframed from personal log to public guide; links new docs/case-studies
+#   - CONTRIBUTING.md     : tighter scope, real PR/style rules
+#   - ROADMAP.md          : roadmap of the GUIDE (not personal goals)
+#   - PR_LOG.md           : NEW. Table of every PR across every repo.
+#   - ACHIEVEMENTS.md     : NEW. Honest log of achievements + how to earn the harder ones.
+#   - docs/01-first-pr-walkthrough.md    : NEW. Full case study.
+#   - docs/02-finding-the-right-issue.md : NEW. Seven-step rubric with worked examples.
+#   - docs/03-passing-ci-checks.md       : NEW. CI debugging guide + Windows CMD gotchas.
+#   - case-studies/2026-05-ebookfoundation-12348.md : NEW. Full record of the EbookFoundation PR.
+#   - case-studies/2026-05-badge-session.md          : NEW. Honest record of the badge run.
+#   - pull-requests/*.diff : NEW. Archived diffs of PRs #1, #2, #3 (this one).
+#
+# Total: ~640 lines of new substantive content.
+# (See live repo for the exact unified diff after push.)
